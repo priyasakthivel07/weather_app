@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+![weather forcast](https://github.com/priyasakthivel07/weather_app/assets/136974781/621da94d-ea4d-40df-8b58-5a224b401ca5)
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
